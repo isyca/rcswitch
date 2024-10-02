@@ -3,7 +3,7 @@ package rcswitch
 import (
 	"time"
 
-	"github.com/periph/conn/gpio"
+	"periph.io/x/conn/v3/gpio"
 )
 
 const maxChanges = 67
